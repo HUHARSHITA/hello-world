@@ -1,2 +1,3 @@
 # hello-world
-it is my first repository on github
+It is my first repository on github.
+Myself Harshita Upadhyay.
